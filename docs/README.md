@@ -1,4 +1,4 @@
-# Noor Documentation
+# Noor Documentation 
 
 Welcome to the documentation for **Noor – Islamic Knowledge Infrastructure**.
 
