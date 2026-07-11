@@ -1,5 +1,26 @@
 # Noor — Islamic Knowledge Infrastructure
 
+```mermaid
+graph TD
+    A[Qur'an]
+    B[Authentic Sunnah]
+    C[Scholarly Works]
+    D[Canonical Knowledge]
+    E[Knowledge Graph]
+    F[AI Assistants]
+    G[Websites]
+    H[Research]
+    I[Presentations]
+
+    A --> D
+    B --> D
+    C --> D
+    D --> E
+    E --> F
+    E --> G
+    E --> H
+    E --> I
+```
 > **Working Draft • Version 0.1**
 
 Noor is an open, non-profit initiative to build a structured, version-controlled knowledge infrastructure for authentic Islamic knowledge.
